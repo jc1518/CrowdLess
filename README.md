@@ -1,7 +1,7 @@
 # CrowdLess
 
 ## Description
-CrowdLess is a tool that syncs the disabled account from Active Directory to Crowd. Since Crowd 2.7, the Active Directory Connector is able to sync the disabled flag from AD to Crowd. The tool is useful for old version Crowder and other connectors, e.g Delegated Authentication Directory.
+CrowdLess is a tool that syncs the disabled account from Active Directory to Crowd (make Crowd less crowded). Since Crowd 2.7, the Active Directory Connector is able to sync the disabled flag from AD to Crowd. The tool is useful for older version Crowd and other connectors, e.g Delegated Authentication Directory.
 
 ## Features
 - [x] Show all active users in Crowd
