@@ -32,10 +32,10 @@ Custom your parameters in params.py file, use params-samplep.py as a reference.
 ![example](example.png)
 
 ## Reference
-https://docs.atlassian.com/atlassian-crowd/3.1.1/REST/#usermanagement/1/search-search
-https://developer.atlassian.com/display/CROWDDEV/Crowd+Query+Language#CrowdQueryLanguage-GroupFields
-https://developer.atlassian.com/display/CROWDDEV/JSON+Requests+and+Responses#JSONRequestsandResponses-Authenticatingwithapassword
-https://github.com/m4ce/crowd-api-python
-https://community.atlassian.com/t5/Crowd-questions/crowd-with-AD-connector-how-detect-disabled-users/qaq-p/165309
-https://confluence.atlassian.com/jirakb/what-is-the-difference-between-connector-and-delegated-ldap-user-directories-686861143.html
-https://confluence.atlassian.com/crowd/configuring-a-delegated-authentication-directory-128287004.html
+- https://docs.atlassian.com/atlassian-crowd/3.1.1/REST/#usermanagement/1/search-search
+- https://developer.atlassian.com/display/CROWDDEV/Crowd+Query+Language#CrowdQueryLanguage-GroupFields
+- https://developer.atlassian.com/display/CROWDDEV/JSON+Requests+and+Responses#JSONRequestsandResponses-Authenticatingwithapassword
+- https://github.com/m4ce/crowd-api-python
+- https://community.atlassian.com/t5/Crowd-questions/crowd-with-AD-connector-how-detect-disabled-users/qaq-p/165309
+- https://confluence.atlassian.com/jirakb/what-is-the-difference-between-connector-and-delegated-ldap-user-directories-686861143.html
+- https://confluence.atlassian.com/crowd/configuring-a-delegated-authentication-directory-128287004.html
