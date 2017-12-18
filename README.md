@@ -8,7 +8,7 @@ CrowdLess is a tool that syncs the disabled account from Active Directory to Cro
 - [x] Check user status in Active Directory
 - [x] Check user status in Crowd
 - [x] Compare user status between Active Directory and Crowd
-- [x] Dislable user in Crowd
+- [x] Disable user in Crowd
 - [x] Enable user in Crowd
 - [x] Synchronize disabled user from Active Directory to Crowd
 - [x] Report mode for synchronization
